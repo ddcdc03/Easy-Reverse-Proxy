@@ -13,8 +13,8 @@ export interface Proxy {
 // 代理
 export let PROXYS = [ 
     {
-        domain: "easy-reverse-proxy-pied.vercel.app",
-        url: "https://www.mysms.one/api/",
+        domain: "ussms.vercel.app",
+        url: "http://sms222.us",
         enable: true
     }
 ];

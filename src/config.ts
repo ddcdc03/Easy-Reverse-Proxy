@@ -7,7 +7,7 @@ export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 export let PROXYS: Proxy[] = [
       {
         domain: "ussms.vercel.app",
-        url: "http://sms222.us",
+        url: "http://sms222.us?token=",
         enable: true
     }
 ];

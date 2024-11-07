@@ -6,8 +6,8 @@ export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 // 代理
 export let PROXYS: Proxy[] = [
       {
-        domain: "easy-reverse-proxy-pied.vercel.app",
-        url: "https://www.mysms.one/api/",
+        domain: "ussms.vercel.app",
+        url: "http://sms222.us",
         enable: true
     }
 ];
